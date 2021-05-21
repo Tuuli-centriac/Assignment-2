@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tuuli\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tuuli\\.nuget\\packages"
+    ]
+  }
+}

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tuuli\\OneDrive\\Desktop\\Assignment centria\\Assignment centria.csproj",
+      "projectUniqueName": "C:\\Users\\tuuli\\OneDrive\\Desktop\\Assignment 2\\Assignment-2\\Assignment centria.csproj",
       "projectName": "Assignment centria",
-      "projectPath": "C:\\Users\\tuuli\\OneDrive\\Desktop\\Assignment centria\\Assignment centria.csproj",
+      "projectPath": "C:\\Users\\tuuli\\OneDrive\\Desktop\\Assignment 2\\Assignment-2\\Assignment centria.csproj",
       "packagesPath": "C:\\Users\\tuuli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tuuli\\OneDrive\\Desktop\\Assignment centria\\obj\\",
+      "outputPath": "C:\\Users\\tuuli\\OneDrive\\Desktop\\Assignment 2\\Assignment-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tuuli\\AppData\\Roaming\\NuGet\\NuGet.Config"

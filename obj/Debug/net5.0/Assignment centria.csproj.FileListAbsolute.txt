@@ -1,0 +1,16 @@
+C:\Users\tuuli\OneDrive\Desktop\Assignment 2\Assignment-2\obj\Debug\net5.0\Assignment centria.csprojAssemblyReference.cache
+C:\Users\tuuli\OneDrive\Desktop\Assignment 2\Assignment-2\obj\Debug\net5.0\Assignment centria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tuuli\OneDrive\Desktop\Assignment 2\Assignment-2\obj\Debug\net5.0\Assignment centria.AssemblyInfoInputs.cache
+C:\Users\tuuli\OneDrive\Desktop\Assignment 2\Assignment-2\obj\Debug\net5.0\Assignment centria.AssemblyInfo.cs
+C:\Users\tuuli\OneDrive\Desktop\Assignment 2\Assignment-2\obj\Debug\net5.0\Assignment centria.csproj.CoreCompileInputs.cache
+C:\Users\tuuli\OneDrive\Desktop\Assignment 2\Assignment-2\bin\Debug\net5.0\Assignment centria.exe
+C:\Users\tuuli\OneDrive\Desktop\Assignment 2\Assignment-2\bin\Debug\net5.0\Assignment centria.deps.json
+C:\Users\tuuli\OneDrive\Desktop\Assignment 2\Assignment-2\bin\Debug\net5.0\Assignment centria.runtimeconfig.json
+C:\Users\tuuli\OneDrive\Desktop\Assignment 2\Assignment-2\bin\Debug\net5.0\Assignment centria.runtimeconfig.dev.json
+C:\Users\tuuli\OneDrive\Desktop\Assignment 2\Assignment-2\bin\Debug\net5.0\Assignment centria.dll
+C:\Users\tuuli\OneDrive\Desktop\Assignment 2\Assignment-2\bin\Debug\net5.0\ref\Assignment centria.dll
+C:\Users\tuuli\OneDrive\Desktop\Assignment 2\Assignment-2\bin\Debug\net5.0\Assignment centria.pdb
+C:\Users\tuuli\OneDrive\Desktop\Assignment 2\Assignment-2\obj\Debug\net5.0\Assignment centria.dll
+C:\Users\tuuli\OneDrive\Desktop\Assignment 2\Assignment-2\obj\Debug\net5.0\ref\Assignment centria.dll
+C:\Users\tuuli\OneDrive\Desktop\Assignment 2\Assignment-2\obj\Debug\net5.0\Assignment centria.pdb
+C:\Users\tuuli\OneDrive\Desktop\Assignment 2\Assignment-2\obj\Debug\net5.0\Assignment centria.genruntimeconfig.cache
